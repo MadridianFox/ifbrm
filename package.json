@@ -1,0 +1,15 @@
+{
+  "name": "subset-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@kubernetes/client-node": "^0.16.3",
+    "commander": "^9.3.0"
+  }
+}
